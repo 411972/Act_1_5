@@ -7,64 +7,40 @@
       "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\services\\formapagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:services\\formapagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\utils\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\utils\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\data\\repositories\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\repositories\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\data\\contracts\\itipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\contracts\\itipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\utils\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\utils\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\data\\contracts\\itipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\contracts\\itipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|c:\\users\\usuario\\desktop\\apuntes utn\\progra ii\\entregable_1_5\\actividad_1_5\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED5F20-ED4E-487F-AB97-62C3AF900B4E}|Actividad_1_5.csproj|solutionrelative:entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,89 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\DataHelper.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\DataHelper.cs",
-              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAYwGgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:30:54.059Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Params.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\Params.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\Params.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\Params.cs",
-              "RelativeToolTip": "Data\\Utils\\Params.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:57:54.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Articulo.cs",
-              "RelativeDocumentMoniker": "Entities\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Articulo.cs",
-              "RelativeToolTip": "Entities\\Articulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:21:54.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticuloService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\ArticuloService.cs",
-              "RelativeDocumentMoniker": "Services\\ArticuloService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\ArticuloService.cs",
-              "RelativeToolTip": "Services\\ArticuloService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:22:16.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FacturaService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FacturaService.cs",
-              "RelativeDocumentMoniker": "Services\\FacturaService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FacturaService.cs",
-              "RelativeToolTip": "Services\\FacturaService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:06:04.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormaPagoService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FormaPagoService.cs",
-              "RelativeDocumentMoniker": "Services\\FormaPagoService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FormaPagoService.cs",
-              "RelativeToolTip": "Services\\FormaPagoService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:38:54.285Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
               "$type": "Document",
@@ -166,53 +72,79 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:19:26.189Z",
+              "WhenOpened": "2024-09-09T22:41:12.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormaPagoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\FormaPagoRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\FormaPagoRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\FormaPagoRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\FormaPagoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:35:12.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "FacturaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\FacturaRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\FacturaRepository.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\FacturaRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\FacturaRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAA8AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwDkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T14:43:32.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ArticuloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\ArticuloRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\ArticuloRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\ArticuloRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\ArticuloRepository.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAgwA0AAAA4AAAA",
+              "DocumentIndex": 8,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:36:43.52Z",
+              "WhenOpened": "2024-08-31T14:30:54.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Factura.cs",
+              "RelativeDocumentMoniker": "Entities\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Factura.cs",
+              "RelativeToolTip": "Entities\\Factura.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:27:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Entities\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\DetalleFactura.cs",
+              "RelativeToolTip": "Entities\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:23:04.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Services\\FacturaService.cs",
+              "RelativeToolTip": "Services\\FacturaService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:44:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ITipoPago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Contracts\\ITipoPago.cs",
               "RelativeDocumentMoniker": "Data\\Contracts\\ITipoPago.cs",
@@ -225,66 +157,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Contracts\\IFacturaRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Contracts\\IFacturaRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Contracts\\IFacturaRepository.cs",
-              "RelativeToolTip": "Data\\Contracts\\IFacturaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:41:53.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IArticuloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Contracts\\IArticuloRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Contracts\\IArticuloRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Contracts\\IArticuloRepository.cs",
-              "RelativeToolTip": "Data\\Contracts\\IArticuloRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:35:58.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "FormaPago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\FormaPago.cs",
               "RelativeDocumentMoniker": "Entities\\FormaPago.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\FormaPago.cs",
               "RelativeToolTip": "Entities\\FormaPago.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T14:20:58.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DetalleFactura.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\DetalleFactura.cs",
-              "RelativeDocumentMoniker": "Entities\\DetalleFactura.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\DetalleFactura.cs",
-              "RelativeToolTip": "Entities\\DetalleFactura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Repositories\\ArticuloRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ArticuloRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:23:04.834Z"
+              "WhenOpened": "2024-08-31T17:36:43.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Factura.cs",
-              "RelativeDocumentMoniker": "Entities\\Factura.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Entities\\Factura.cs",
-              "RelativeToolTip": "Entities\\Factura.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAcwCUAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Params.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\Params.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\Params.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Apuntes UTN\\Progra II\\Entregable_1_5\\Actividad_1_5\\Data\\Utils\\Params.cs",
+              "RelativeToolTip": "Data\\Utils\\Params.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:27:11.933Z"
+              "WhenOpened": "2024-08-31T14:57:54.358Z",
+              "EditorCaption": ""
             }
           ]
         }

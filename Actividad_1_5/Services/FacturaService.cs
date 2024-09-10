@@ -22,5 +22,20 @@ namespace Actividad_1_5.Services
         {
             return _repository.CrearFactura(factura);
         }
+
+        public bool ActualizarFactura(Factura factura, int id)
+        {
+            return _repository.ActualizarFactura(factura, id);
+        }
+
+        public bool EliminarFactura(int id)
+        {
+            return _repository.BorrarFactura(id);
+        }
+
+        public List<Factura> ObtenerFacturas()
+        {
+            return _repository.GetFacturaList();
+        }
     }
 }

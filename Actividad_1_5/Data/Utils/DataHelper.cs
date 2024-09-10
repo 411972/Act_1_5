@@ -75,6 +75,25 @@ namespace Actividad_1_5.Data.Utils
             return dt;
         }
 
+        public DataTable ExecuteSPGet(string sp)
+        {
+            DataTable dt = new DataTable();
+            try
+            {
+                SqlCommand cmd = new SqlCommand(sp, _connection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                dt.Load(cmd.ExecuteReader());
+
+            }
+            catch (Exception exc)
+            {
+                dt = null;
+                throw exc;
+            }
+
+            return dt;
+        }
+
         public int ExecuteSPwParams(string sp, List<Params> paramsql, SqlTransaction t)
         {
             int idFactura = 0;
@@ -120,6 +139,31 @@ namespace Actividad_1_5.Data.Utils
                 return rows;
             }
             
-        } 
+        }
+
+        public int ExecuteSPwParams(string sp, Params param, SqlTransaction t)
+        {
+            
+            int rows = 0;
+            try
+            {
+                SqlCommand cmd = new SqlCommand(sp, _connection, t);
+                cmd.CommandType = CommandType.StoredProcedure;
+             
+                cmd.Parameters.AddWithValue(param.Nombre, param.Valor);
+                
+                rows = cmd.ExecuteNonQuery();
+                
+
+
+            }
+            catch (Exception exc)
+            {
+                throw exc;
+            }
+
+            return rows;
+
+        }
     }
 }

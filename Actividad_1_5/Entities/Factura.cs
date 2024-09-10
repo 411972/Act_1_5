@@ -42,5 +42,10 @@ namespace Actividad_1_5.Entities
             }
             
         }
+
+        public void EliminarDetalles()
+        {
+            Detalles.Clear();
+        }
     }
 }

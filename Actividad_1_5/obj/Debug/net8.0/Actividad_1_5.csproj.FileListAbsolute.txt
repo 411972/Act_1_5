@@ -22,3 +22,4 @@ C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\Entregable_1_5\Actividad_1_5\obj\
 C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\Entregable_1_5\Actividad_1_5\obj\Debug\net8.0\Actividad_1_5.pdb
 C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\Entregable_1_5\Actividad_1_5\obj\Debug\net8.0\Actividad_1_5.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\Entregable_1_5\Actividad_1_5\obj\Debug\net8.0\ref\Actividad_1_5.dll
+C:\Users\Usuario\Desktop\Apuntes UTN\Progra II\Entregable_1_5\Actividad_1_5\obj\Debug\net8.0\Actividad_1_5.sourcelink.json

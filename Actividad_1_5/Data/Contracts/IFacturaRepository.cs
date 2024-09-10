@@ -10,5 +10,11 @@ namespace Actividad_1_5.Data.Contracts
     public interface IFacturaRepository
     {
         bool CrearFactura(Factura factura);
+
+        bool ActualizarFactura(Factura factura, int id);
+
+        List<Factura> GetFacturaList();
+
+        bool BorrarFactura(int id);
     }
 }
